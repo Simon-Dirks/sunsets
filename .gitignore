@@ -3,3 +3,5 @@
 *.TIF
 .ipynb_checkpoints/main-checkpoint.ipynb
 plot.png
+cache/*
+.ipynb_checkpoints/3d-checkpoint.ipynb
